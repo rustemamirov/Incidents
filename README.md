@@ -1,7 +1,7 @@
 # Incidents
 Processing an array of incidents according to a complex algorithm
 
-There is a set of N incidents. Each has: id with consecutive values ​​from 0 to N-1, two categorical signs with integer values ​​from 0 to M-1, a sign of time with some (non-integer) value from 0 to 1.
+There is a set of N incidents. Each has: id with consecutive values from 0 to N-1, two categorical signs with integer values from 0 to M-1, a sign of time with some (non-integer) value from 0 to 1.
 
 It is necessary to write to the function that receives the input dT and the file with the incidents, and for each of the N incidents it calculates the number of incidents that satisfy the following conditions:
 
