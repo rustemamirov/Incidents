@@ -8,4 +8,4 @@ It is necessary to write to the function that receives the input dT and the file
 - precede the incident in time, with the time difference not exceeding dT;
 - have the values of feature1 and feature2, coinciding with the corresponding values of the incident.
 
-The function should read the csv-file with incidents, calculate the results for all incidents and write them into a csv-file of the specified type. The main nuance: the function should work quite quickly, namely, no longer than a minute with M = 100, N = 1,000,000, dT = 0.3
+The function should read the csv-file with incidents, calculate the results for all incidents and write them into a csv-file of the specified type. The main nuance: the function should work quite quickly, namely, no longer than a minute with M = 100, N = 1,000,000, dT = 0.3.
